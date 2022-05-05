@@ -1,0 +1,28 @@
+- profile:
+  initials: PP
+  name: Petteri Pucilowski
+  profession: Web Consultant - Full Stack
+  image: images/profile.jpg
+  location: Kuopio, Finland
+  relocation: false
+  company: PP Web Consulting
+  for_hire: false
+  focus: Making websites for beauty salons
+  focus_url: https://gatsbyjs.org
+  about: |
+    In my many years of doing business online I have learned how to build everything from the ground up - be it server setup and maintenance or setting up a Prestashop storefront - that’s the advantage of doing everything yourself.
+
+    I am fluent in building scalable solutions using Docker and I also have some experience working with Kubernetes. I enjoy working with Wordpress, Prestashop and Gatsby.
+  skills:
+    - HTML / CSS
+    - Ecommerce solutions
+    - Wordpress
+  tools:
+    - React
+    - Gatsby
+    - Graphcommerce
+  budget:
+    currency: €
+    min: 200
+    max: 10000
+    default: 500

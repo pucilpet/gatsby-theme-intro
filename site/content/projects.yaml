@@ -1,0 +1,21 @@
+- name: Hius Studio Valentina
+  url: https://hiusstudiovalentina.fi
+  description: I created a new website for Hius Studio Valentina. It is created on Wordpress.
+  status: live
+  tags:
+    - Wordpress
+    - Appointment scheduling
+    - Salon
+  icon: website
+  image: images/hiusstudiovalentina1.jpg
+
+- name: Latausjohdot.fi
+  url: https://latausjohdot.fi
+  description: Latausjohdot is built on top of Magento ecommerce. The frontend is running Graphcommerce, which is a custom React framework.
+  status: live
+  tags:
+    - Magento
+    - React
+    - Graphcommerce
+  icon: ecommerce
+  image: images/project.jpg
