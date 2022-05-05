@@ -84,12 +84,12 @@ const ContactForm = ({ formspreeEndpoint, budget }) => {
                   max={budget.max}
                   min={budget.min}
                   name="budget"
-                  onChange={e => setSelectedBudget(e.currentTarget.value)}
-                  step="1"
+                  onChange={(e) => setSelectedBudget(e.currentTarget.value)}
+                  step="100"
                   type="range"
                 />
                 <div className="font-header font-semibold leading-none text-front opacity-50">
-                  {budget.currency} {selectedBudget}K
+                  {budget.currency} {selectedBudget}
                 </div>
               </div>
             </div>
