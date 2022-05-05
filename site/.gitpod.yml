@@ -1,0 +1,4 @@
+tasks:
+  - before: npm install gatsby-cli
+    init: cd site
+    command: gatsby develop
