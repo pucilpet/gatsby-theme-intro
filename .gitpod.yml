@@ -3,6 +3,7 @@
 # and commit this file to your remote git repository to share the goodness with others.
 
 tasks:
+  before: npm install gatsby-cli
   init: |
     yarn add gatsby react react-dom @wkocjan/gatsby-theme-intro
   command: gatsby develop
