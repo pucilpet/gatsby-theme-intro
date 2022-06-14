@@ -19,7 +19,7 @@
 - name: producthunt
   url:
 
-- name: github
+- name: gitlab
   url: https://git.hersecret.fi/pucilpet
 
 - name: goodreads
