@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    description: "Personal page of Petteri Pucilowski", 
+    description: "Page of Petteri Pucilowski",
     locale: "en",
     title: "Petteri Pucilowski",
   },
